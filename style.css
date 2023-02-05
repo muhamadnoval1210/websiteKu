@@ -48,3 +48,25 @@ nav ul li a:hover {
   transition: 0.5s;
   font-family: 'Karla', sans-serif;
 }
+
+.main-text {
+  color: #000;
+  position: absolute;
+  top: 50%;
+  left: 28%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+h1 {
+  font-size: 65px;
+  margin: 10px 0 30px;
+}
+h1 span {
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+small {
+  font-size: 17px;
+  text-transform: capitalize;
+  letter-spacing: 1.8px;
+}
